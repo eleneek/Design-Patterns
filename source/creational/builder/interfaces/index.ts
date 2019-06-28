@@ -1,2 +1,2 @@
-export {BuilderInterface} from "./builderInterface";
-export {RequestInterface} from "./requestInterface";
+export { BuilderInterface } from "./builderInterface";
+export { RequestInterface } from "./requestInterface";
